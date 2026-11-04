@@ -1,0 +1,1 @@
+vdirs 0.1.8: original npm package.json declares license MIT and author 07akioni. The exact published package and public repository omit a standalone LICENSE. Original package metadata and README are retained. MIT-TERMS.txt provides standard MIT terms based on the package declaration; it is not represented as an original file from the package. No copyright year is inferred.

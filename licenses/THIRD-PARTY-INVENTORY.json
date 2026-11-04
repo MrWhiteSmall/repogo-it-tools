@@ -1,0 +1,547 @@
+[
+  {
+    "name": "highlight.js",
+    "version": "11.7.0",
+    "license": "BSD-3-Clause",
+    "files": [
+      "packages/highlight.js@11.7.0/LICENSE",
+      "packages/highlight.js@11.7.0/package.json"
+    ]
+  },
+  {
+    "name": "@vueuse/shared",
+    "version": "12.0.0",
+    "license": "MIT",
+    "files": [
+      "packages/@vueuse__shared@12.0.0/LICENSE",
+      "packages/@vueuse__shared@12.0.0/package.json"
+    ]
+  },
+  {
+    "name": "sortablejs",
+    "version": "1.14.0",
+    "license": "MIT",
+    "files": [
+      "packages/sortablejs@1.14.0/LICENSE",
+      "packages/sortablejs@1.14.0/package.json"
+    ]
+  },
+  {
+    "name": "vue-i18n",
+    "version": "9.9.1",
+    "license": "MIT",
+    "files": [
+      "packages/vue-i18n@9.9.1/LICENSE",
+      "packages/vue-i18n@9.9.1/package.json"
+    ]
+  },
+  {
+    "name": "evtd",
+    "version": "0.2.4",
+    "license": "MIT",
+    "files": [
+      "packages/evtd@0.2.4/LICENSE",
+      "packages/evtd@0.2.4/package.json"
+    ]
+  },
+  {
+    "name": "pinia",
+    "version": "2.0.34",
+    "license": "MIT",
+    "files": [
+      "packages/pinia@2.0.34/LICENSE",
+      "packages/pinia@2.0.34/package.json"
+    ]
+  },
+  {
+    "name": "@vue/runtime-core",
+    "version": "3.3.4",
+    "license": "MIT",
+    "files": [
+      "packages/@vue__runtime-core@3.3.4/LICENSE",
+      "packages/@vue__runtime-core@3.3.4/package.json"
+    ]
+  },
+  {
+    "name": "@intlify/message-compiler",
+    "version": "9.9.1",
+    "license": "MIT",
+    "files": [
+      "packages/@intlify__message-compiler@9.9.1/LICENSE",
+      "packages/@intlify__message-compiler@9.9.1/package.json"
+    ]
+  },
+  {
+    "name": "naive-ui",
+    "version": "2.35.0",
+    "license": "MIT",
+    "files": [
+      "packages/naive-ui@2.35.0/LICENSE",
+      "packages/naive-ui@2.35.0/package.json"
+    ]
+  },
+  {
+    "name": "qrcode",
+    "version": "1.5.1",
+    "license": "MIT",
+    "files": [
+      "packages/qrcode@1.5.1/license",
+      "packages/qrcode@1.5.1/package.json"
+    ]
+  },
+  {
+    "name": "@vueuse/core",
+    "version": "10.3.0",
+    "license": "MIT",
+    "files": [
+      "packages/@vueuse__core@10.3.0/LICENSE",
+      "packages/@vueuse__core@10.3.0/package.json"
+    ]
+  },
+  {
+    "name": "css-render",
+    "version": "0.15.12",
+    "license": "MIT",
+    "files": [
+      "packages/css-render@0.15.12/README.md",
+      "packages/css-render@0.15.12/package.json",
+      "packages/css-render@0.15.12/LICENSE.upstream"
+    ]
+  },
+  {
+    "name": "@css-render/vue3-ssr",
+    "version": "0.15.12",
+    "license": "MIT",
+    "files": [
+      "packages/@css-render__vue3-ssr@0.15.12/README.md",
+      "packages/@css-render__vue3-ssr@0.15.12/package.json",
+      "packages/@css-render__vue3-ssr@0.15.12/LICENSE.upstream"
+    ]
+  },
+  {
+    "name": "@iconify-json/mdi",
+    "version": "1.1.50",
+    "license": "Apache-2.0",
+    "files": [
+      "packages/@iconify-json__mdi@1.1.50/README.md",
+      "packages/@iconify-json__mdi@1.1.50/package.json",
+      "packages/@iconify-json__mdi@1.1.50/LICENSE.upstream",
+      "packages/@iconify-json__mdi@1.1.50/info.json"
+    ]
+  },
+  {
+    "name": "hookable",
+    "version": "5.5.3",
+    "license": "MIT",
+    "files": [
+      "packages/hookable@5.5.3/LICENSE.md",
+      "packages/hookable@5.5.3/package.json"
+    ]
+  },
+  {
+    "name": "vooks",
+    "version": "0.2.12",
+    "license": "MIT",
+    "files": [
+      "packages/vooks@0.2.12/LICENSE",
+      "packages/vooks@0.2.12/package.json"
+    ]
+  },
+  {
+    "name": "vue-shadow-dom",
+    "version": "4.2.0",
+    "license": "MIT",
+    "files": [
+      "packages/vue-shadow-dom@4.2.0/LICENSE",
+      "packages/vue-shadow-dom@4.2.0/package.json"
+    ]
+  },
+  {
+    "name": "@babel/runtime",
+    "version": "7.23.2",
+    "license": "MIT",
+    "files": [
+      "packages/@babel__runtime@7.23.2/LICENSE",
+      "packages/@babel__runtime@7.23.2/package.json"
+    ]
+  },
+  {
+    "name": "marked",
+    "version": "10.0.0",
+    "license": "MIT",
+    "files": [
+      "packages/marked@10.0.0/LICENSE.md",
+      "packages/marked@10.0.0/package.json"
+    ]
+  },
+  {
+    "name": "@vueuse/shared",
+    "version": "10.3.0",
+    "license": "MIT",
+    "files": [
+      "packages/@vueuse__shared@10.3.0/LICENSE",
+      "packages/@vueuse__shared@10.3.0/package.json"
+    ]
+  },
+  {
+    "name": "vue",
+    "version": "3.3.4",
+    "license": "MIT",
+    "files": [
+      "packages/vue@3.3.4/LICENSE",
+      "packages/vue@3.3.4/package.json"
+    ]
+  },
+  {
+    "name": "@emotion/hash",
+    "version": "0.8.0",
+    "license": "MIT",
+    "files": [
+      "packages/@emotion__hash@0.8.0/LICENSE",
+      "packages/@emotion__hash@0.8.0/package.json"
+    ]
+  },
+  {
+    "name": "vdirs",
+    "version": "0.1.8",
+    "license": "MIT",
+    "files": [
+      "packages/vdirs@0.1.8/MIT-TERMS.txt",
+      "packages/vdirs@0.1.8/README.md",
+      "packages/vdirs@0.1.8/NOTICE.txt",
+      "packages/vdirs@0.1.8/package.json"
+    ]
+  },
+  {
+    "name": "seemly",
+    "version": "0.3.6",
+    "license": "MIT",
+    "files": [
+      "packages/seemly@0.3.6/README.md",
+      "packages/seemly@0.3.6/package.json",
+      "packages/seemly@0.3.6/LICENSE.upstream"
+    ]
+  },
+  {
+    "name": "date-fns",
+    "version": "2.29.3",
+    "license": "MIT",
+    "files": [
+      "packages/date-fns@2.29.3/LICENSE.md",
+      "packages/date-fns@2.29.3/package.json"
+    ]
+  },
+  {
+    "name": "async-validator",
+    "version": "4.2.5",
+    "license": "MIT",
+    "files": [
+      "packages/async-validator@4.2.5/LICENSE.md",
+      "packages/async-validator@4.2.5/package.json"
+    ]
+  },
+  {
+    "name": "vuedraggable",
+    "version": "4.1.0",
+    "license": "MIT",
+    "files": [
+      "packages/vuedraggable@4.1.0/LICENSE",
+      "packages/vuedraggable@4.1.0/package.json"
+    ]
+  },
+  {
+    "name": "figue",
+    "version": "1.2.0",
+    "license": "MIT",
+    "files": [
+      "packages/figue@1.2.0/LICENSE",
+      "packages/figue@1.2.0/package.json"
+    ]
+  },
+  {
+    "name": "vue-demi",
+    "version": "0.14.5",
+    "license": "MIT",
+    "files": [
+      "packages/vue-demi@0.14.5/LICENSE",
+      "packages/vue-demi@0.14.5/package.json"
+    ]
+  },
+  {
+    "name": "@intlify/shared",
+    "version": "9.9.1",
+    "license": "MIT",
+    "files": [
+      "packages/@intlify__shared@9.9.1/LICENSE",
+      "packages/@intlify__shared@9.9.1/package.json"
+    ]
+  },
+  {
+    "name": "mime-types",
+    "version": "2.1.35",
+    "license": "MIT",
+    "files": [
+      "packages/mime-types@2.1.35/LICENSE",
+      "packages/mime-types@2.1.35/package.json"
+    ]
+  },
+  {
+    "name": "@css-render/plugin-bem",
+    "version": "0.15.12",
+    "license": "MIT",
+    "files": [
+      "packages/@css-render__plugin-bem@0.15.12/README.md",
+      "packages/@css-render__plugin-bem@0.15.12/package.json",
+      "packages/@css-render__plugin-bem@0.15.12/LICENSE.upstream"
+    ]
+  },
+  {
+    "name": "lodash",
+    "version": "4.17.21",
+    "license": "MIT",
+    "files": [
+      "packages/lodash@4.17.21/LICENSE",
+      "packages/lodash@4.17.21/package.json"
+    ]
+  },
+  {
+    "name": "vue-router",
+    "version": "4.1.6",
+    "license": "MIT",
+    "files": [
+      "packages/vue-router@4.1.6/LICENSE",
+      "packages/vue-router@4.1.6/package.json"
+    ]
+  },
+  {
+    "name": "@vue/runtime-dom",
+    "version": "3.3.4",
+    "license": "MIT",
+    "files": [
+      "packages/@vue__runtime-dom@3.3.4/LICENSE",
+      "packages/@vue__runtime-dom@3.3.4/package.json"
+    ]
+  },
+  {
+    "name": "vueuc",
+    "version": "0.4.51",
+    "license": "MIT",
+    "files": [
+      "packages/vueuc@0.4.51/LICENSE",
+      "packages/vueuc@0.4.51/package.json"
+    ]
+  },
+  {
+    "name": "@vue/shared",
+    "version": "3.3.4",
+    "license": "MIT",
+    "files": [
+      "packages/@vue__shared@3.3.4/LICENSE",
+      "packages/@vue__shared@3.3.4/package.json"
+    ]
+  },
+  {
+    "name": "date-fns",
+    "version": "2.30.0",
+    "license": "MIT",
+    "files": [
+      "packages/date-fns@2.30.0/LICENSE.md",
+      "packages/date-fns@2.30.0/package.json"
+    ]
+  },
+  {
+    "name": "@unhead/vue",
+    "version": "0.5.1",
+    "license": "MIT",
+    "files": [
+      "packages/@unhead__vue@0.5.1/package.json",
+      "packages/@unhead__vue@0.5.1/LICENSE.upstream"
+    ]
+  },
+  {
+    "name": "fuse.js",
+    "version": "6.6.2",
+    "license": "Apache-2.0",
+    "files": [
+      "packages/fuse.js@6.6.2/LICENSE",
+      "packages/fuse.js@6.6.2/package.json"
+    ]
+  },
+  {
+    "name": "dompurify",
+    "version": "3.0.6",
+    "license": "(MPL-2.0 OR Apache-2.0)",
+    "files": [
+      "packages/dompurify@3.0.6/LICENSE",
+      "packages/dompurify@3.0.6/package.json"
+    ]
+  },
+  {
+    "name": "encode-utf8",
+    "version": "1.0.3",
+    "license": "MIT",
+    "files": [
+      "packages/encode-utf8@1.0.3/readme.md",
+      "packages/encode-utf8@1.0.3/package.json",
+      "packages/encode-utf8@1.0.3/LICENSE.upstream"
+    ]
+  },
+  {
+    "name": "treemate",
+    "version": "0.3.11",
+    "license": "MIT",
+    "files": [
+      "packages/treemate@0.3.11/LICENSE",
+      "packages/treemate@0.3.11/package.json"
+    ]
+  },
+  {
+    "name": "@tabler/icons-vue",
+    "version": "3.20.0",
+    "license": "MIT",
+    "files": [
+      "packages/@tabler__icons-vue@3.20.0/LICENSE",
+      "packages/@tabler__icons-vue@3.20.0/package.json"
+    ]
+  },
+  {
+    "name": "dijkstrajs",
+    "version": "1.0.2",
+    "license": "MIT",
+    "files": [
+      "packages/dijkstrajs@1.0.2/LICENSE.md",
+      "packages/dijkstrajs@1.0.2/package.json"
+    ]
+  },
+  {
+    "name": "@intlify/core-base",
+    "version": "9.9.1",
+    "license": "MIT",
+    "files": [
+      "packages/@intlify__core-base@9.9.1/LICENSE",
+      "packages/@intlify__core-base@9.9.1/package.json"
+    ]
+  },
+  {
+    "name": "@vueuse/head",
+    "version": "1.0.0",
+    "license": "MIT",
+    "files": [
+      "packages/@vueuse__head@1.0.0/LICENSE",
+      "packages/@vueuse__head@1.0.0/package.json"
+    ]
+  },
+  {
+    "name": "@vue/devtools-api",
+    "version": "6.5.0",
+    "license": "MIT",
+    "files": [
+      "packages/@vue__devtools-api@6.5.0/package.json",
+      "packages/@vue__devtools-api@6.5.0/LICENSE.upstream"
+    ]
+  },
+  {
+    "name": "date-fns-tz",
+    "version": "2.0.0",
+    "license": "MIT",
+    "files": [
+      "packages/date-fns-tz@2.0.0/LICENSE.md",
+      "packages/date-fns-tz@2.0.0/package.json"
+    ]
+  },
+  {
+    "name": "@unhead/ssr",
+    "version": "0.5.1",
+    "license": "MIT",
+    "files": [
+      "packages/@unhead__ssr@0.5.1/README.md",
+      "packages/@unhead__ssr@0.5.1/package.json",
+      "packages/@unhead__ssr@0.5.1/LICENSE.upstream"
+    ]
+  },
+  {
+    "name": "vue-demi",
+    "version": "0.13.11",
+    "license": "MIT",
+    "files": [
+      "packages/vue-demi@0.13.11/LICENSE",
+      "packages/vue-demi@0.13.11/package.json"
+    ]
+  },
+  {
+    "name": "mime-db",
+    "version": "1.52.0",
+    "license": "MIT",
+    "files": [
+      "packages/mime-db@1.52.0/LICENSE",
+      "packages/mime-db@1.52.0/package.json"
+    ]
+  },
+  {
+    "name": "lodash-es",
+    "version": "4.17.21",
+    "license": "MIT",
+    "files": [
+      "packages/lodash-es@4.17.21/LICENSE",
+      "packages/lodash-es@4.17.21/package.json"
+    ]
+  },
+  {
+    "name": "plausible-tracker",
+    "version": "0.3.8",
+    "license": "MIT",
+    "files": [
+      "packages/plausible-tracker@0.3.8/LICENSE",
+      "packages/plausible-tracker@0.3.8/package.json"
+    ]
+  },
+  {
+    "name": "@vue/reactivity",
+    "version": "3.3.4",
+    "license": "MIT",
+    "files": [
+      "packages/@vue__reactivity@3.3.4/LICENSE",
+      "packages/@vue__reactivity@3.3.4/package.json"
+    ]
+  },
+  {
+    "name": "@vicons/tabler",
+    "version": "0.12.0",
+    "license": "MIT",
+    "files": [
+      "packages/@vicons__tabler@0.12.0/Copyright.js",
+      "packages/@vicons__tabler@0.12.0/package.json",
+      "packages/@vicons__tabler@0.12.0/License.d.ts",
+      "packages/@vicons__tabler@0.12.0/Copyright.d.ts",
+      "packages/@vicons__tabler@0.12.0/License.js"
+    ]
+  },
+  {
+    "name": "@unhead/dom",
+    "version": "0.5.1",
+    "license": "MIT",
+    "files": [
+      "packages/@unhead__dom@0.5.1/README.md",
+      "packages/@unhead__dom@0.5.1/package.json",
+      "packages/@unhead__dom@0.5.1/LICENSE.upstream"
+    ]
+  },
+  {
+    "name": "@juggle/resize-observer",
+    "version": "3.4.0",
+    "license": "Apache-2.0",
+    "files": [
+      "packages/@juggle__resize-observer@3.4.0/LICENSE",
+      "packages/@juggle__resize-observer@3.4.0/package.json"
+    ]
+  },
+  {
+    "name": "unhead",
+    "version": "0.5.1",
+    "license": "MIT",
+    "files": [
+      "packages/unhead@0.5.1/package.json",
+      "packages/unhead@0.5.1/LICENSE.upstream"
+    ]
+  }
+]

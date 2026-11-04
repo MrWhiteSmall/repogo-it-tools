@@ -1,0 +1,10 @@
+
+# RepoGo local runtime and private working files
+.runtime/
+.run/
+node_modules/
+.cache/
+__pycache__/
+.DS_Store
+.env.local
+.env.*.local
